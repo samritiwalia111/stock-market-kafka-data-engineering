@@ -73,4 +73,3 @@ jupyter notebook
 14. Start 2 new python notebooks and name them "KafkaProducer" and "KafkaConsumer"
 15. 
    
->>>>>>> b84935a (Initial commit of Stock Market Kafka Data Engineering project)
