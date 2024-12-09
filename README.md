@@ -2,9 +2,12 @@
 A Data Engineering project using Kafka for Stock Market data processing.
 =======
 
-# stock-market-kafka-data-engineering-Using-Kafka
+# Stock-market-kafka-data-engineering-Using-Kafka
 
-A Data Engineering project using Kafka for Stock Market data processing.
+This Data Engineering project uses Apache Kafka for processing stock market data in real-time. The setup involves configuring a Kafka cluster on an EC2 instance, setting up Kafka and Zookeeper, creating topics, and implementing producers and consumers to simulate the flow of stock market data.
+
+![image](Architecture.jpg)
+
 
 
 ## Steps to run:
