@@ -74,5 +74,4 @@ This Data Engineering project uses Apache Kafka for processing stock market data
 jupyter notebook
 ```
 14. Start 2 new python notebooks and name them "KafkaProducer" and "KafkaConsumer"
-15. 
    
